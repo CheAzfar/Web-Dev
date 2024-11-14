@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <div id="myElement">
+            <p>Welcome to my website!</p>
+        </div>
+        <script>
+            document.getElementById("myElement").innerHTML = "Hello There!";
+        </script>
+    </body>
+</html>
